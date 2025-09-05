@@ -1,4 +1,4 @@
-# my-assignments-starter
+# my-assignments
 
 Use GitHub Desktop to *clone* (copy) this starter repo (repository) to your laptop.
 
